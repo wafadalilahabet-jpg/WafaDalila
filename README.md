@@ -1,4 +1,4 @@
-#  Hi, I’m [Your Name]
+#  Hi, I’m Wafa
 
 I’m a **Data Scientist** exploring **LLM Engineering** and applied AI systems.  
 My focus is on building **end-to-end AI pipelines** — from data wrangling to deploying LLM-powered apps.
